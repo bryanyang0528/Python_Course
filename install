@@ -1,0 +1,25 @@
+1.安裝python2.7.6
+  請至官網 http://www.python.org/download/releases/2.7.6/ 
+  下載適合自己作業系統的版本安裝 
+
+2. 設定環境
+   Windows 使用者： 
+   必須於環境變數的 path 加入 C:\Python27;C:\Python27\Scripts
+  
+3. 安裝 pip: Python 程式語言的套件管理程式 
+   下載 https://raw.github.com/pypa/pip/master/contrib/get-pip.py 
+   執行 pyhton get-pip.py
+
+4. 安裝課程用套件 
+   安裝 requests, BeautifulSoup, HTMLParser 
+   pip install requests 
+   pip install BeautifulSoup 
+   pip install HTMLParser 
+  
+5. 安裝ipython 和 ipython notebook
+   pip install ipython 
+   pip install ipython [notebook]
+   可以參考 http://ipython.org/install.html
+            http://r97846001.blog.ntu.edu.tw/2013/12/23/python-install-ipython-and-start-to-use-ipython-notebook/
+      
+
